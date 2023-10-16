@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+form{
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+input[type="button"]{
+    width: 400px;
+    margin: 10px 0;
+    padding: 10px 0;
+}
+
+p{
+    text-align: center;
+}
